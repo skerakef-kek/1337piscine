@@ -1,0 +1,7 @@
+Credentials cache: API:1534
+        Principal: ztaouil@1337.MA
+
+  Issued                Expires               Principal
+Jul  2 15:37:02 2019  Jul  3 01:37:02 2019  krbtgt/1337.MA@1337.MA
+Jul  2 15:37:04 2019  Jul  3 01:37:02 2019  ldap/ldap.1337.ma@1337.MA
+Jul  2 15:37:04 2019  Jul  3 01:37:02 2019  HTTP/student-storage.1337.ma@1337.MA
